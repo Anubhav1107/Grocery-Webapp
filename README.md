@@ -1,5 +1,5 @@
 # Grocery Webapp
-In this python project, we will build a grocery store management application.
+In this project, I build a grocery store management application.
 1. Front end: UI is written in HTML/CSS/Javascript/Bootstrap
 2. Backend: Python and Flask
 3. Database: mysql
